@@ -1,0 +1,14 @@
+.flx-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aqua;
+
+}
+.flx-container >div {
+    background-color: black;
+    width: 50px;
+    margin: auto;
+    text-align: center;
+    line-height: 80px;
+    font-size: large;
+}

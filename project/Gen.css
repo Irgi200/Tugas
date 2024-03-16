@@ -1,0 +1,124 @@
+#ALL {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(208, 224, 238);
+    text-align: center;    
+}
+.MASKOT {
+    padding-left: 580px;
+    padding-top: 30px;
+    font-size: large;
+}
+.pic mask {
+    padding-left: 520px;
+}
+    
+
+body {
+    background-image: url(another\ bg.jpg);
+    background-size: auto;
+    font-family: lucida;
+    background-attachment:fixed;
+}
+
+
+.open {
+    color: al;
+    
+}
+.table {
+    font-size: 35px;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: gold;
+    text-decoration: overline underline;
+    text-decoration-color: aliceblue;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px 5px ;
+
+    
+
+}
+.open h2{ 
+    color: black;
+    background-color: aliceblue;
+}
+.open h1 {
+    text-indent: 50px;
+    padding-top: 10px;
+    color: gold;
+    text-decoration: underline overline;
+    text-decoration-color: aliceblue;
+    
+    }
+    .open p {
+        padding-left: 20px;
+        border: 1px solid gold;
+        text-align: center;
+    }
+    .angkatan img {
+         image-rendering: optimizeQuality;
+    }
+   .k {
+        padding-top: 25px;
+         font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;
+            color: gold;
+            text-decoration: underline overline;
+            text-decoration-color: aliceblue;
+            text-overflow: clip;
+
+   }
+
+   .k b mark {
+     background-color: slategray;
+          color: azure;
+       letter-spacing: 1px;
+   }
+
+   .explan {
+        color: aliceblue;
+          padding-left: 20px;
+        text-align: center;
+   }
+ table {
+      color: black;
+         background-color: gray;
+    
+
+ }
+ table th {
+        font-size: 21px;
+            font-family: 'Times New Roman', Times, serif;
+          color: gold;
+ }
+ table td {
+        font-size: 15px;
+         font-style: bold;
+ }
+ .maskot {
+     text-shadow: 2px 2px 5px gold;
+        color: gold;
+            font-size: 25px;
+              text-decoration: overline underline ;
+         text-decoration-color: aliceblue;
+       letter-spacing: 5px;
+
+
+ }
+ .close {
+        text-align: center;
+     color: gold;
+             text-decoration: underline;
+    text-decoration-color: gainsboro;
+    ;
+ }
+ .close h3 {
+        padding-bottom: 70px;
+
+ }
+
+
+    
+    
+ 
